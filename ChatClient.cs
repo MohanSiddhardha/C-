@@ -1,3 +1,5 @@
+// Client socket to send and receive messages
+
 using System;
 using System.Net;
 using System.Net.Sockets;
